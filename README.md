@@ -1,6 +1,6 @@
 ## Opa! eu sou o Fernandeeess
 - 🔭 Estou estudando FRONT-END...
-- 🌱 Estudando HTML5, CSS3, JS
+- 🌱 Estudando HTML, CSS, JS
 <div>
   <a href="https://github.com/fernandeeess">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandeeess&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>

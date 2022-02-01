@@ -42,9 +42,9 @@
 <img align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="left" src="https://aleen42.github.io/badges/src/photoshop.svg">
-
 <br>
+<br>
+
   
 </div>
   

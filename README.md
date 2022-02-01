@@ -35,7 +35,7 @@
   
 </div>
 
-  <h2>🔧 Ferramentas que aprendi a utilizar</h2>
+  <h1>🔧 Ferramentas que aprendi a utilizar</h1>
 
 <img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
@@ -52,7 +52,7 @@
   
  
 <div> 
-  <h2>🤙📱Contato</h2>
+  <h1>🤙📱Contato</h1>
  <a align="center" href="https://api.whatsapp.com/send?phone=5511970139925"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
   <div> 
   

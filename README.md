@@ -1,6 +1,6 @@
 ## Opa! eu sou o Fernandeeess
 - 🔭 Estudando FRONT-END...
-- 🌱 Estudando Focando em JavaScript
+- 🌱 Focando em JavaScript
 <div>
   <a href="https://github.com/fernandeeess">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandeeess&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>

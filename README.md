@@ -38,7 +38,8 @@
 </div>
 
   <h1>🔧 Ferramentas que aprendi a utilizar</h1>
-
+  
+<img align="left" src="https://img.shields.io/badge/Netlify-43853D?style=for-the-badge&logo=netlify&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">

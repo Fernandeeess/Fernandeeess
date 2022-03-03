@@ -2,7 +2,7 @@
 <ul>
    <li>🎓 Cursando o 1° semestre em Análise e Desenvolvimento de Sistemas<br>na Universidade Cruzeiro do Sul - Vila lobos</li>
    <li>🔭 Estudando FRONT-END...</li>
-   <li>🌱 Focando em JavaScript</li>
+   <li>🌱 Focado em JavaScript</li>
 </ul>
 
 
